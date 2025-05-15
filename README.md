@@ -1,7 +1,3 @@
-Here’s a clear and professional example of a README file for your Food Service EDA repository:
-
----
-
 # Food Service Data Analysis
 
 ## Overview
